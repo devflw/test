@@ -1,2 +1,2 @@
-FROM kali:latest
+FROM kalilinux:kali-rolling
 
