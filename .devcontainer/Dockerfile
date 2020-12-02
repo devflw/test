@@ -1,2 +1,1 @@
-FROM kalilinux:kali-rolling
-
+FROM centos:latest
