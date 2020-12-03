@@ -1,1 +1,2 @@
-FROM kalilinux/kali-rolling
+FROM ubuntu:latest
+RUN apt update
